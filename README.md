@@ -72,8 +72,8 @@ The project uses the **LendingClub dataset**, a publicly available dataset conta
 ### Step 1: Clone the Repository
 Clone the GitHub repository to your local machine.
 ```bash
-git clone https://github.com/ADNAN-BAVA/loan-prediction-dnn.git
-cd loan-prediction-dnn
+git clone https://github.com/ADNAN-BAVA/LendingClub_Loan_Prediction.git
+cd LendingClub_Loan_Prediction
 ```
 
 ### Step 2: Install Required Libraries
@@ -83,9 +83,9 @@ pip install -r requirements.txt
 ```
 
 ### Step 3: Perform Exploratory Data Analysis (EDA)
-Run the `eda.ipynb` notebook in the `notebooks/` directory to visualize and understand the dataset. 
+Run the `LendingClub_Loan_Prediction_using_DNN FINAL.ipynb` notebook in the repo to visualize and understand the dataset. 
 ```bash
-jupyter notebook Loan_preddiction.ipynb
+jupyter notebook LendingClub_Loan_Prediction_using_DNN FINAL.ipynb
 ```
 
 ### Step 4: Preprocess the Dataset
