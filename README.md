@@ -103,12 +103,13 @@ Run the evaluation script to generate a classification report and plots for accu
 ### Step 7: Hyperparameter Tuning
 Use the hyperparameter tuning script to find the best model configuration. Adjust the parameters in the script file before running.
 
-### Step 8: Visualize Results
-Access saved results like training-validation plots and classification reports in the `results/` directory.
+---
 
 ## 🏆 Contributions
 
 Contributions, issues, and feature requests are welcome! Feel free to fork the repository and make improvements.
+
+---
 
 ## 📧 Contact
 
