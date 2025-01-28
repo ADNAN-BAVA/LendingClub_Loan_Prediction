@@ -1,6 +1,6 @@
 # LendingClub Loan Prediction Using Deep Neural Networks (DNN)
 
-![Deep Learning](https://img.shields.io/badge/Machine%20Learning-Deep%20Neural%20Networks-blue)
+![Deep Learning](https://img.shields.io/badge/Machine%20Learning-Deep%20Neural%20Networks-blue) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](#)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 
